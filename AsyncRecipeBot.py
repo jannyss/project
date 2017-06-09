@@ -187,7 +187,7 @@ async def dayrecipe(chat, match):
     await chat.send_photo(image)
     await chat.send_text(resp, parse_mode='HTML')
     await chat.send_text("<b>Порядок выполнения</b>", parse_mode='HTML')
-    step = 13
+    step = 1
     for i in steps:
         r = "<i>Шаг " + str(step) + ":</i>" + i
         await chat.send_text(r, parse_mode='HTML')
