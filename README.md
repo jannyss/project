@@ -47,7 +47,7 @@
 
 ![alt text](https://user-images.githubusercontent.com/29301873/26972722-e7747e84-4c9d-11e7-9a67-507d52315c1d.png)
 
-/resipe - поиск рецепта по указанному блюду(как в RecipeBot.py, только без кнопок)
+/reсipe - поиск рецепта по указанному блюду(как в RecipeBot.py, только без кнопок)
 
 ![alt text](https://user-images.githubusercontent.com/29301873/26972925-d1fe5ca4-4c9e-11e7-8ab5-006dfeede15e.png)
 
